@@ -36,8 +36,8 @@ Print the Output and end the program.
 
 ## Program :
 
-### DEVELOPED BY:Onteddu Sirisha
-### REGISTER NUMBER : 212222230103
+### DEVELOPED BY:MADHAVAN K
+### REGISTER NUMBER : 212224220054
 
 ## CUBE PLAYER :
 
